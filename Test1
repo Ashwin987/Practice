@@ -1,0 +1,13 @@
+<html>
+	<head>
+		<title>My practice</title>
+	</head>
+	<body>
+		<div>
+			<li>tiger</li>
+			<li>lion</li>
+			<li>monkey</li>
+			<li>frog</li>
+		</div>
+	</body>
+</html>
